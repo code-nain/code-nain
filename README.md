@@ -7,7 +7,7 @@ Hi 👋 min-0 😋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-nain&show_icons=true&theme=radical)
 
 <h2 align="center"> 🎨 Stack <br> </p>
- ![Static Badge](https://img.shields.io/badge/:badgeContent)
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=round-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white"/> 
