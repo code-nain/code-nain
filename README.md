@@ -44,12 +44,13 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
    <br>
-
-<h4>visit here!</h4>
+  
+  <h4>visit here!</h4>
   <p>
-    <img src="https://img.shields.io/badge/dlsgo9981@gmial.com-EA4335?style=for-the-badge&logo&logo=gmail&logoColor=white"/> 
-<!--     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo&logo=notion&logoColor=white"/>    -->
-    <a href="https://https://codena.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo&logo=tistory&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/dlsgo9981@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> 
+    <a href="https://codena.tistory.com/">
+      <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+    </a>
   </p>
 
 </div>
