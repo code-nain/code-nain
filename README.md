@@ -1,7 +1,6 @@
 Hi 👋 min-0 😋
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true&type=venom)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 ![header](https://capsule-render.vercel.app/api?type=venom)
 ![header](https://capsule-render.vercel.app/api?color=timeGradient)
 
