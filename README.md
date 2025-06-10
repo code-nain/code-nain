@@ -3,6 +3,7 @@ Hi 👋 min-0 😋
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 ![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?color=timeGradient)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-nain&show_icons=true&theme=radical)
 
