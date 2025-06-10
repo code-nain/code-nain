@@ -6,7 +6,7 @@
 
   <h2></h2>
   
-  <h3>📚 Languages / Library / Tools 📚</h3>
+  <h3>📚 Stack 📚</h3>
   <br>
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=white"/>   
