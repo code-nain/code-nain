@@ -11,6 +11,7 @@
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=white"/>   
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=round-square&logo=vue.js&logoColor=white"/>   
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=round-square&logo=Node.js&logoColor=white"/>   
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>   
   </p>
   <p>
@@ -21,15 +22,20 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=git&logoColor=white"/>   
-    <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=github&logoColor=white"/>   
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/dlsgo9981@gmial.com-EA4335?style=round-square&logo=gmail&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=notion&logoColor=white"/>   
-    <a href="https://https://codena.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=round-square&logo=tistory&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=github&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>  
   </p>
 
    <br>
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h3>visit here!</h3>
+  <p>
+    <img src="https://img.shields.io/badge/dlsgo9981@gmial.com-EA4335?style=round-square&logo=gmail&logoColor=white"/> 
+<!--     <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=notion&logoColor=white"/>    -->
+    <a href="https://https://codena.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=round-square&logo=tistory&logoColor=white"/></a>
+  </p>
+
 </div>
